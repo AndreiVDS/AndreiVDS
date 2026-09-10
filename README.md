@@ -14,26 +14,40 @@
 
 ### 👋 About
 
-Full stack developer from Jaraguá do Sul, Brazil. I work as a **Junior IT Infrastructure
-Analyst at Dalila Atêlie Têxtil** — keeping systems running and writing Python automations
-for our help-desk — while pursuing a **B.Sc. in Software Engineering at UNINTER**.
+Full stack developer from Jaraguá do Sul, Brazil, with a background in **software testing / QA**.
+I currently work as a **Junior IT Infrastructure Analyst at Dalila Atêlie Têxtil** and I'm
+pursuing a **B.Sc. in Software Engineering at UNINTER**.
 
-I like building things that solve a real problem for real people: from a full web platform
+I like building things that solve a real problem for real people — from a full web platform
 down to a small script that saves someone an hour a day.
 
 ### 🔭 Currently
 
 - Building **[Eventos Região](https://github.com/AndreiVDS/eventos-regiao)** — an inclusive regional events platform, live at **[eventos-regiao.vercel.app](https://eventos-regiao.vercel.app)**
-- Going deeper into software architecture, automated testing and web accessibility, and applying them to real projects
+- Going deeper into software architecture, automated testing and web accessibility
 - Open to junior / early-career developer opportunities
+
+### 💼 Experience
+
+- **Junior IT Infrastructure Analyst** — Dalila Atêlie Têxtil · Jan 2023 – Present
+  System monitoring, technical support (phone / Anydesk) and Python automations for help-desk ticket management.
+- **Quality Analyst (QA / Tester)** — ~6 months <!-- empresa · período -->
+  Manual and automated testing of Java web applications (Vaadin 24 / Vaadin 6, React), working in Eclipse.
+
+### 🎓 Education & courses
+
+- **B.Sc. Software Engineering** — Centro Universitário Internacional UNINTER · 2024 – 2028
+- **Full-Stack JavaScript** (React · Node.js · PostgreSQL) — OneBitCode
+- **Python** <!-- nome do curso -->
 
 ### 🧰 Tech
 
 **Languages** — JavaScript, Python, Java, PHP, SQL, HTML, CSS
-**Frontend** — React, Vite, Tailwind CSS, PWA
+**Frontend** — React, Vite, Tailwind CSS, Vaadin, PWA
 **Backend & data** — Node.js, PostgreSQL, Supabase, MySQL, MongoDB, REST APIs
+**Testing & QA** — manual + automated testing, Vitest
 **DevOps & infra** — Vercel, Git & GitHub Actions, Linux / Webmin, Zabbix, Anydesk
-**Tools** — Figma, Notion, Movidesk, workflow automation
+**Tools** — Eclipse, Figma, Notion, Movidesk
 
 <p>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -48,6 +62,7 @@ down to a small script that saves someone an hour a day.
   <img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" />
   <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
@@ -56,30 +71,41 @@ down to a small script that saves someone an hour a day.
 
 ### 📌 Selected projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[Eventos Região](https://github.com/AndreiVDS/eventos-regiao)** · [live ↗](https://eventos-regiao.vercel.app) | Inclusive platform to discover and promote local cultural, sporting and community events. Moderation queue, organizer area, metrics panel, geolocation "near me", maps, transactional email, a public read API, and an installable PWA. | React 18 · Vite · Tailwind · Supabase (Postgres + Auth + Storage) · Vercel serverless · Vitest |
-| **[API-chamados-Notion](https://github.com/AndreiVDS/API-chamados-Notion)** | Integration that syncs help-desk tickets from Movidesk into Notion — an automation I built for my own team's workflow. | Python · REST APIs |
-| **[Desenvolvimento-API](https://github.com/AndreiVDS/Desenvolvimento-API)** | REST API with relational data modelling and automated tests. | Java · MySQL |
-| **[Organizador de arquivos](https://github.com/AndreiVDS/Organizador_de_arquivos)** | Desktop tool that auto-sorts a folder's files into categorised subfolders. | Python |
+**[Eventos Região](https://github.com/AndreiVDS/eventos-regiao)** &nbsp;·&nbsp; **[live demo ↗](https://eventos-regiao.vercel.app)**
+Inclusive platform to discover and promote local cultural, sporting and community events.
+Moderation queue, organizer area, metrics panel, geolocation "near me", maps, transactional
+email, a public read API, and an installable PWA.
+`React 18` · `Vite` · `Tailwind CSS` · `Supabase (Postgres + Auth + Storage)` · `Vercel serverless` · `Vitest`
+
+**[API-chamados-Notion](https://github.com/AndreiVDS/API-chamados-Notion)**
+Integration that syncs help-desk tickets from Movidesk into Notion — an automation I built for
+my own team's workflow.
+`Python` · `REST APIs`
+
+**[Desenvolvimento-API](https://github.com/AndreiVDS/Desenvolvimento-API)**
+REST API with relational data modelling and automated tests.
+`Java` · `MySQL`
+
+**[Organizador de arquivos](https://github.com/AndreiVDS/Organizador_de_arquivos)**
+Desktop tool that auto-sorts a folder's files into categorised subfolders.
+`Python`
 
 ### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AndreiVDS&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Andrei's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiVDS&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=AndreiVDS&hide_border=true" alt="GitHub streak" />
 </p>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiVDS&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<!--
+  Se algum "card" acima aparecer quebrado, é o servidor gratuito (github-readme-stats.vercel.app)
+  sob limite de uso — costuma voltar sozinho em alguns minutos. O card de streak usa outro
+  servidor (demolab) e é mais estável. Pode remover qualquer bloco que não quiser.
+-->
 
 ### 📫 Contact
 
 - **Portfolio** — https://portifolio-andrei-vinicius.vercel.app/
 - **LinkedIn** — https://www.linkedin.com/in/andrei-vds-dev
-
-<!--
-  Os "cards" de stats são serviços prontos e gratuitos (github-readme-stats,
-  streak-stats). Para dar um tema: acrescente &theme=graywhite (ou outro) na URL.
-  Apague qualquer bloco que não quiser.
--->
