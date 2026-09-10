@@ -95,15 +95,13 @@ Desktop tool that auto-sorts a folder's files into categorised subfolders.
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AndreiVDS&hide_border=true" alt="GitHub streak" />
 </p>
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiVDS&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
 
 <!--
-  Se algum "card" acima aparecer quebrado, é o servidor gratuito (github-readme-stats.vercel.app)
-  sob limite de uso — costuma voltar sozinho em alguns minutos. O card de streak usa outro
-  servidor (demolab) e é mais estável. Pode remover qualquer bloco que não quiser.
+  Card opcional de linguagens (o servidor gratuito github-readme-stats.vercel.app
+  vive fora do ar / com erro 503, por isso está desativado). Se quiser tentar, cole:
+  <p align="center"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiVDS&layout=compact&hide_border=true&langs_count=8" alt="Top languages" /></p>
 -->
+
 
 ### 📫 Contact
 
